@@ -1,6 +1,4 @@
-
-   
-//confluence by MDN
+//confluence 2 by MDN
 
 const t=(()=>time)
 const sh=(s,m,k,o)=>(shape(s).rotate(t,1).kaleid(k).kaleid(k).kaleid(k).scale([0.75],[0.75]).modulate(m,0.7).out(o))
